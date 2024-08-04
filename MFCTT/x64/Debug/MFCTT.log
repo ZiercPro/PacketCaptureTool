@@ -1,0 +1,23 @@
+﻿  MFCTTDlg.cpp
+D:\VS prictice project\MFCTT\MFCTT\MFCTTDlg.cpp(250,6): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/MFCTTDlg.cpp”)
+  
+D:\VS prictice project\MFCTT\MFCTT\MFCTTDlg.cpp(253,6): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/MFCTTDlg.cpp”)
+  
+D:\VS prictice project\MFCTT\MFCTT\MFCTTDlg.cpp(354,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“/MFCTTDlg.cpp”)
+  
+D:\VS prictice project\MFCTT\MFCTT\MFCTTDlg.cpp(758,15): warning C4002: 类函数宏的调用“_T”参数过多
+  (编译源文件“/MFCTTDlg.cpp”)
+  
+D:\VS prictice project\MFCTT\MFCTT\MFCTTDlg.cpp(768,15): warning C4002: 类函数宏的调用“_T”参数过多
+  (编译源文件“/MFCTTDlg.cpp”)
+  
+D:\VS prictice project\MFCTT\MFCTT\MFCTTDlg.cpp(771,11): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/MFCTTDlg.cpp”)
+  
+D:\VS prictice project\MFCTT\MFCTT\MFCTTDlg.cpp(774,11): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“/MFCTTDlg.cpp”)
+  
+  MFCTT.vcxproj -> D:\VS prictice project\MFCTT\x64\Debug\MFCTT.exe
